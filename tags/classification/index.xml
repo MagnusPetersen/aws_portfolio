@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Classification on Magnus Petersen </title>
+    <link>https://magnuspetersen.com/tags/classification/</link>
+    <description>Recent content in Classification on Magnus Petersen </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://magnuspetersen.com/tags/classification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ESG Company Score Evaluation </title>
+      <link>https://magnuspetersen.com/post/chapter-3/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://magnuspetersen.com/post/chapter-3/</guid>
+      <description>This is my attempt of estimating ESG scores, a scoring system for evaluating environment, social and governance impact of an entity. The scoring is done using a zero shot multi label categorization using a pretrained S-BERT Model. The model uses keywords corresponding to E, S and G in order to categorize articles as belonging to the three categories. If the article is classified as belonging to one or more of the categories it is assigned a score based on the relative positivity of the article, which is in turn calculated by comparing the score of the label &amp;ldquo;negative&amp;rdquo; and &amp;ldquo;positive&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Mechanism of Action Prediction</title>
+      <link>https://magnuspetersen.com/post/chapter-1/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://magnuspetersen.com/post/chapter-1/</guid>
+      <description>My work for the &amp;ldquo;Mechanism of Action&amp;rdquo; dataset. All my iterations and insights.
+Task Outline The goal of the challenge is to use 100 cell viability features and 772 gene expression features to find the corresponding 206 target mechanisms. The features are the results from the L1000 and Prism assay respectively. The problem is therefore a simple classification problem where the complexity comes from the number of categories and their imbalance.</description>
+    </item>
+    
+  </channel>
+</rss>

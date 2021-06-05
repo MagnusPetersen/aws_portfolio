@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP on Magnus Petersen </title>
+    <link>https://magnuspetersen.com/tags/nlp/</link>
+    <description>Recent content in NLP on Magnus Petersen </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://magnuspetersen.com/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forum Recommendation Website</title>
+      <link>https://magnuspetersen.com/post/chapter-5/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://magnuspetersen.com/post/chapter-5/</guid>
+      <description>Recomenddit Recomenddit is a natural langue processing-based search engine for subreddits, topic focused forums, on the site Reddit. A search query in the form of text one might find on the desired subreddit is compared to text from around 100.000 subreddits on the site. The website also allows for customised search parameters such as subreddit subscriber count and an adult content filter.     Purpose Reddit offers a wide range of interesting communities from mainstream forums featuring dog pictures to niche interests like flyfishing.</description>
+    </item>
+    
+    <item>
+      <title>ESG Company Score Evaluation </title>
+      <link>https://magnuspetersen.com/post/chapter-3/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://magnuspetersen.com/post/chapter-3/</guid>
+      <description>This is my attempt of estimating ESG scores, a scoring system for evaluating environment, social and governance impact of an entity. The scoring is done using a zero shot multi label categorization using a pretrained S-BERT Model. The model uses keywords corresponding to E, S and G in order to categorize articles as belonging to the three categories. If the article is classified as belonging to one or more of the categories it is assigned a score based on the relative positivity of the article, which is in turn calculated by comparing the score of the label &amp;ldquo;negative&amp;rdquo; and &amp;ldquo;positive&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>
